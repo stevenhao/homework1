@@ -61,7 +61,7 @@ def runAndCheckSizes():
         ( "__int128*", 8 ),
         ( "uint32_t*", 8 ),
         ( "uint64_t*", 8 ),
-        ( "&student", 8 ),
+        ( "student*", 8 ),
 	( "&x", 8)
     ]
 
